@@ -12,15 +12,14 @@ int main(void)
 
 {
 
-int n;
+char c;
 
-for (n = '0'; n <= '10'; n++)
+for (c = '0'; c <= '9'; c++)
 
 {
-	if (n / 10 < 10)
-	{
-		putchar(n);
-	}
+
+	putchar(c);
+
 }
 
 putchar('\n');
