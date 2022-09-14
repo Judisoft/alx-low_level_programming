@@ -20,5 +20,4 @@ _putchar('0' + r);
 _putchar('\n');
 
 return (0);
-
 }
