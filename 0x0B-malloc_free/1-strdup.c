@@ -1,4 +1,5 @@
 #include "main.h"
+#include "stdio"
 #include <stdlib.h>
 
 /**
@@ -22,7 +23,6 @@ car *_strdup(char *str)
 		return (NULL);
 
 	i = 0;
-
 	while (str[i] != '\0')
 
 		i++;
