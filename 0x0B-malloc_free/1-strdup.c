@@ -1,5 +1,4 @@
 #include "main.h"
-#include "stdio"
 #include <stdlib.h>
 
 /**
@@ -8,7 +7,7 @@
  * Return: pointer to array or null
  **/
 
-car *_strdup(char *str)
+char *_strdup(char *str)
 
 {
 
