@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * *argstostr - concatenates all arguements to the program
+ * argstostr - concatenates all arguements to the program
  * @ac: arguement count
  * @av: pointer to arguements
  * Return: pointer to new space in memory or null
