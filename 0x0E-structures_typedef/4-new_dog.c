@@ -1,6 +1,6 @@
 /*
  * File: 4-new_dog.c
- * Auth: Brennan D Baraban
+ * Auth: Kum Jude
  */
 
 #include "dog.h"
